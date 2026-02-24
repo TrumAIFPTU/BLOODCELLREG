@@ -1,0 +1,20 @@
+{
+    "TRAIN_SET_OVERALL": {
+        "Color_Var_B_G_R": [
+            20.05,
+            48.92,
+            41.52
+        ],
+        "Mean_Saturation": 60.11,
+        "Mean_Blur_Var": 54.8
+    },
+    "TEST_SET_OVERALL": {
+        "Color_Var_B_G_R": [
+            29.45,
+            52.73,
+            42.78
+        ],
+        "Mean_Saturation": 65.52,
+        "Mean_Blur_Var": 10505.9
+    }
+}
